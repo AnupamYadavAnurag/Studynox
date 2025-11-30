@@ -44,22 +44,22 @@ const courses = [
 const videos = [
   {
     id: "xK4j80Hx_dw",
-    title: "PW Skills — Python Lab Setup (Lecture 1)",
+    title: "PW Skills Python Lab Setup (Lecture 1)",
     thumb: "https://i.ytimg.com/vi/xK4j80Hx_dw/hqdefault.jpg",
   },
   {
     id: "PccMf_OQSHk",
-    title: "PW Skills — Orientation Session",
+    title: "PW Skills Orientation Session",
     thumb: "https://i.ytimg.com/vi/PccMf_OQSHk/hqdefault.jpg",
   },
   {
     id: "PEt5fjv1_o0",
-    title: "PW — The Future of Skills (featured)",
+    title: "PW  The Future of Skills (featured)",
     thumb: "https://i.ytimg.com/vi/PEt5fjv1_o0/hqdefault.jpg",
   },
   {
     id: "y3OOaXrFy-Q",
-    title: "PW — Extra: Design Basics",
+    title: "Introduction Programming Language",
     thumb: "https://i.ytimg.com/vi/y3OOaXrFy-Q/hqdefault.jpg",
   }
 ,
@@ -180,4 +180,5 @@ document.addEventListener("click", (e) => {
     );
   }
 });
+
 
