@@ -58,10 +58,11 @@ const videos = [
     thumb: "https://i.ytimg.com/vi/PEt5fjv1_o0/hqdefault.jpg",
   },
   {
-    id: "dQw4w9WgXcQ",
+    id: "y3OOaXrFy-Q",
     title: "PW — Extra: Design Basics",
-    thumb: "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
-  },
+    thumb: "https://i.ytimg.com/vi/y3OOaXrFy-Q/hqdefault.jpg",
+  }
+,
 ];
 
 // DOM refs
@@ -179,3 +180,4 @@ document.addEventListener("click", (e) => {
     );
   }
 });
+
