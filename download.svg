@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- transparent background -->
+  <rect width="64" height="64" fill="none"></rect>
+  <!-- stylized open book -->
+  <path d="M8 20c0-1.1.9-2 2-2 6 0 12 3 22 3s16-3 22-3c1.1 0 2 .9 2 2v24c0 1.1-.9 2-2 2-6 0-12-3-22-3S16 46 10 46c-1.1 0-2-.9-2-2V20z" fill="none" stroke="#0b3b52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <!-- center fold of book -->
+  <path d="M32 18v28" stroke="#0b3b52" stroke-width="3" stroke-linecap="round"></path>
+  <!-- rising knowledge dot -->
+  <circle cx="32" cy="10" r="6" fill="#00bfa5"></circle>
+</svg>
