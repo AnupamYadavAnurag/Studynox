@@ -57,6 +57,11 @@ const videos = [
     title: "PW  The Future of Skills (featured)",
     thumb: "https://i.ytimg.com/vi/PEt5fjv1_o0/hqdefault.jpg",
   },
+ {
+  id: "5n5YG8ShXRQ",
+  title: "Deep work Music",
+  thumb: "https://i.ytimg.com/vi/PccMf_OQSHk/hqdefault.jpg",
+},
   {
     id: "y3OOaXrFy-Q",
     title: "Introduction Programming Language",
@@ -180,5 +185,6 @@ document.addEventListener("click", (e) => {
     );
   }
 });
+
 
 
