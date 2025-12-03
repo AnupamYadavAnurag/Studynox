@@ -4,7 +4,7 @@ const courses = [
     title: "Full-Stack Web Development",
     instructor: "Prof. Anupam Yadav",
     lessons: 72,
-    price: "₹7,999",
+    price: "₹4,999",
     tag: "Most popular",
     desc: "Build real-world projects using HTML, CSS, JavaScript, React, Node and MongoDB.",
     video: "xK4j80Hx_dw",
@@ -185,6 +185,7 @@ document.addEventListener("click", (e) => {
     );
   }
 });
+
 
 
 
