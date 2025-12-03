@@ -2,7 +2,7 @@ const courses = [
   {
     id: 1,
     title: "Full-Stack Web Development",
-    instructor: "Prof. A. Sharma",
+    instructor: "Prof. Anupam Yadav",
     lessons: 72,
     price: "₹7,999",
     tag: "Most popular",
@@ -12,7 +12,7 @@ const courses = [
   {
     id: 2,
     title: "Data Science & ML",
-    instructor: "Dr. S. Verma",
+    instructor: "Dr. Gargi Soni",
     lessons: 58,
     price: "₹9,499",
     tag: "Career track",
@@ -22,7 +22,7 @@ const courses = [
   {
     id: 3,
     title: "Competitive Programming",
-    instructor: "Coach R. Patel",
+    instructor: "Coach Prakhar Agrawal",
     lessons: 40,
     price: "Free",
     tag: "Free",
@@ -32,7 +32,7 @@ const courses = [
   {
     id: 4,
     title: "UI / UX Design",
-    instructor: "M. Kaur",
+    instructor: "M. Ayushi and M. Dhairya",
     lessons: 32,
     price: "₹4,499",
     tag: "Design",
@@ -185,6 +185,7 @@ document.addEventListener("click", (e) => {
     );
   }
 });
+
 
 
 
